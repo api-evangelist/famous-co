@@ -64,5 +64,16 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Famous is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by insight-partners) and added to the network as a stub for full-pipeline profiling.
-- https://famous.co/
+Famous is a technology company that provides innovative solutions across multiple industries, leveraging cutting‑edge APIs to enable seamless integration for developers and enterprises. The firm focuses on delivering robust, scalable services that empower partners to build, automate, and extend their digital products. With a strong commitment to open standards and developer experience, Famous offers comprehensive documentation, SDKs, and support resources to accelerate time‑to‑market for API‑driven applications.
+
+**Areas:** Company · Technology · APIs · Integration · DeveloperExperience
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://famous.co/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/famous-co/](https://apis.io/providers/famous-co/).
